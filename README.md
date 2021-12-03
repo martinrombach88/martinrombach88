@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinrombach88
-- 👀 I’m interested in ... Javascript, React, C#, Java
-- 🌱 I’m currently learning ... Javascript
+- 👀 I’m interested in ... Javascript, PHP, React, Node.js, Java
+- 🌱 I’m currently learning ... PHP
 - 💞️ I’m looking to collaborate on ... projects! (once my bootcamp is finished)
 - 📫 How to reach me ... martinrombach88@gmail.com
 
