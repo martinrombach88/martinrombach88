@@ -8,10 +8,7 @@
 
 📫 Reach me on my <a href="https://www.linkedin.com/in/martin-rombach-0a67b266/">Linkedin</a> or my <a href="https://img.shields.io/twitter/follow/MartinRombach88">Twitter. </a>
 
-
-**Readme Previews**
-
-
+💡 Checkout the readmes of my projects. I have included screen gif captures to introduce you to them.
 
 <!---
 martinrombach88/martinrombach88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
