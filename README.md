@@ -8,8 +8,8 @@
 
 📫 How to reach me ... martinrombach88@gmail.com
 
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+# My Stack
+![](https://img.shields.io/badge/<>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!---
 martinrombach88/martinrombach88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
