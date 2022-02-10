@@ -6,7 +6,7 @@
 
 💻 My portfolio is <a href="www.martinrombachdev.com">martinrombachdev.com.</a>
 
-📫 Reach me on my <a href="https://www.linkedin.com/in/martin-rombach-0a67b266/">Linkedin</a> or my Twitter. <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MartinRombach88?style=social">
+📫 Reach me on my <a href="https://www.linkedin.com/in/martin-rombach-0a67b266/">Linkedin</a> or my <a href="https://img.shields.io/twitter/follow/MartinRombach88">Twitter. </a>
 
 
 **Readme Previews**
