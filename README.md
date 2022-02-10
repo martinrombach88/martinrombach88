@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on ... projects! (once my bootcamp is finished)
 
-📫 How to reach me ... martinrombach88@gmail.com
+📫 How to reach me ... https://www.linkedin.com/in/martin-rombach-0a67b266/
 
 # My Stack
 ![](https://img.shields.io/badge/<>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
