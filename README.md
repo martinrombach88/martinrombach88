@@ -1,6 +1,6 @@
 **Hello, I'm Martin Rombach.** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🏠 I live in Seoul, South Korea.
+🏠 I live in Jangi, South Korea.
 
 👀 I'm looking for jobs in Front End development and Full Stack Development.
 
