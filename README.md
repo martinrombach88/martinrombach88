@@ -6,7 +6,7 @@
 
 💻 My portfolio is <a href="www.martinrombachdev.com/portfolio">here.</a>
 
-📽️ You can see a demo of every project on the readme. Show don't tell!
+📽️ You can see a video demo of every project on the readme. Take a look!
 
 📫 Reach me on my <a href="https://www.linkedin.com/in/martin-rombach-0a67b266/">Linkedin</a> or my <a href="https://img.shields.io/twitter/follow/MartinRombach88">Twitter. </a>
 
