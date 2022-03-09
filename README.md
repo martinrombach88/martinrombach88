@@ -2,7 +2,7 @@
 
 🏠 I live in Seoul, South Korea.
 
-👀 I'm looking for jobs in Front End development and Full Stack Development.
+👀 I'm looking for jobs in Front End development.
 
 💻 My portfolio is <a href="www.martinrombachdev.com/portfolio">here.</a>
 
