@@ -4,7 +4,7 @@
 
 👀 I'm looking for jobs in Front End development and Full Stack Development.
 
-💻 My portfolio is <a href="www.martinrombachdev.com/portfolio">here.</a>
+💻 My portfolio is <a href="https://www.martinrombachdev.com/portfolio">here.</a>
 
 📽️ You can see a video demo of every completed project on the readme. Take a look!
 
