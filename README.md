@@ -1,5 +1,9 @@
 **Hello, I'm Martin Rombach.** 
 
+Tech Stack:
+React - Node.js - MySQL - Javascript
+
+
 🏠 I live in Seoul, South Korea.
 
 👀 I'm looking for jobs in Front End Development and opportunities to volunteer.
