@@ -1,7 +1,7 @@
 **Hello, I'm Martin Rombach.** 
 
 Tech Stack:
-Javascript - React - Node.js - MySQL
+Javascript - React - Node.js - MySQL - HTML - CSS
 
 
 🏠 I live in Seoul, South Korea.
