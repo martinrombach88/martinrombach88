@@ -10,7 +10,7 @@ Javascript - React - Node.js - MySQL - HTML - CSS
 
 💻 My portfolio is <a href="https://www.martinrombachdev.com/portfolio">here.</a>
 
-📫 Reach me on my <a href="https://www.linkedin.com/in/martin-rombach-0a67b266/">Linkedin</a> or my <a href="https://img.shields.io/twitter/follow/MartinRombach88">Twitter. </a>
+📫 Reach me on my <a href="https://www.linkedin.com/in/martin-rombach-0a67b266/">Linkedin</a>.
 
 
 
