@@ -4,7 +4,7 @@ Tech Stack:
 Javascript - React - Node.js - MySQL - HTML - CSS
 
 
-🏠 I live in Seoul, South Korea.
+🏠 I live in Jangi, South Korea.
 
 👀 I'm looking for jobs in Front End and Full Stack Development and opportunities to volunteer.
 
