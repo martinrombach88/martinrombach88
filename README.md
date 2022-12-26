@@ -6,7 +6,7 @@ Javascript - Python - Node.js - React - MySQL - HTML - CSS
 
 🏠 I live in Jangi, South Korea.
 
-👀 I'm looking for jobs in Front End and Full Stack Development and opportunities to volunteer.
+👀 I'm looking for work in Software Engineering.
 
 💻 My portfolio is <a href="https://www.martinrombachdev.com/portfolio">here.</a>
 
