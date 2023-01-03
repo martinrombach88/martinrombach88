@@ -6,7 +6,7 @@ Java - MySQL - Node.js - Javascript - React - HTML - CSS
 
 🏠 I live in Jangi, South Korea.
 
-👀 I'm learning Java
+👀 I'm learning Java and Backend Development.
 
 💻 My portfolio is <a href="https://www.martinrombachdev.com/portfolio">here.</a>
 
