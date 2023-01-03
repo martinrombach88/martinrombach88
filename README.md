@@ -1,12 +1,12 @@
 **Hello, I'm Martin Rombach.** 
 
 Tech Stack:
-Javascript - Node.js - React - MySQL - HTML - CSS
+Java - MySQL - Node.js - Javascript - React - HTML - CSS
 
 
 🏠 I live in Jangi, South Korea.
 
-👀 I'm looking for work in Software Engineering.
+👀 I'm learning Java
 
 💻 My portfolio is <a href="https://www.martinrombachdev.com/portfolio">here.</a>
 
