@@ -1,7 +1,7 @@
 **Hello, I'm Martin Rombach.** 
 
 Tech Stack:
-I work mainly in: Java - MySQL - Node.js - Javascript - React - HTML - CSS
+\n I work mainly in: Java - MySQL - Node.js - Javascript - React - HTML - CSS
 I have also worked in: Python - PHP 
 
 
