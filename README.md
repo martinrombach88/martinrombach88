@@ -1,8 +1,8 @@
 **Hello, I'm Martin Rombach.** 
 
-Tech Stack:
-\n I work mainly in: Java - MySQL - Node.js - Javascript - React - HTML - CSS
-I have also worked in: Python - PHP 
+I am working in: Java
+
+I have also worked in:  MySQL - Node.js - Javascript - React - HTML - CSS - Python - PHP 
 
 
 🏠 I live in Jangi, South Korea.
