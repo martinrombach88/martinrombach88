@@ -1,6 +1,6 @@
 **Hello, I'm Martin Rombach.** 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinrombach88&hide=css,scss,html&theme=tokyonight)
 
 
 🏠 I live in Jangi, South Korea.
