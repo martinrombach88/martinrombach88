@@ -1,10 +1,6 @@
 **Hello, I'm Martin Rombach.** 
 
-I am coding in: Java.
-
-I have also coded with:  
-
-Javascript - Node.js - React - MySQL - HTML - CSS - Python - PHP
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 🏠 I live in Jangi, South Korea.
