@@ -1,8 +1,10 @@
 **Hello, I'm Martin Rombach.** 
 
-I am coding in: Java
+I am coding in: Java.
 
-I have also coded with:  Javascript - Node.js - React - MySQL - HTML - CSS - Python - PHP 
+I have also coded with:  
+
+Javascript - Node.js - React - MySQL - HTML - CSS - Python - PHP
 
 
 🏠 I live in Jangi, South Korea.
