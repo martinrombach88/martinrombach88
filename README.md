@@ -1,9 +1,5 @@
 **Hello, I'm Martin Rombach.** 
 
-**Profile** 
-
-💻 I'm a backend programmer.
-
 👀 I'm learning Java and Backend Development.
 
 🏠 I live in Jangi, South Korea.
