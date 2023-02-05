@@ -13,3 +13,4 @@
 martinrombach88/martinrombach88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
