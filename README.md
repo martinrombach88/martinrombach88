@@ -1,5 +1,9 @@
 **Hello, I'm Martin Rombach.** 
 
+**Profile** 
+_I'm a backend programmer, with 6 months Full Stack experience with React and Node.js. 
+Initially trained in full stack web development by wCoding, I am working this year to change my focus to Java._
+
 🏠 I live in Jangi, South Korea.
 
 👀 I'm learning Java and Backend Development.
