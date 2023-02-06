@@ -8,7 +8,6 @@ My portfolio is <a href="https://www.martinrombachdev.com/portfolio">here.</a> R
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinrombach88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-Looking forward to when this bar above turns brown...
 
 <!---
 martinrombach88/martinrombach88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
