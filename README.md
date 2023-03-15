@@ -1,6 +1,6 @@
 **Hello, I'm Martin Rombach.** 
 
-I'm learning Java and Backend Development.
+I'm learning Backend Development.
 
 I live in Jangi, South Korea.
 
