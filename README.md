@@ -2,7 +2,7 @@
 
 I live in Jangi, South Korea.
 
-My portfolio is currently being updated. <a href="https://martinrombachdev.com/korean_listening_app/"> You can view the old portfolio here.</a>
+My portfolio is currently being updated. <a href="https://martinrombachdev.com/"> You can view the old portfolio here.</a>
 
 I've started blogging <a href="https://dev.to/martinrombach88">here.</a>
 
