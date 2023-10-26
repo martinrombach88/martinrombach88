@@ -4,8 +4,6 @@ I live in Jangi, South Korea.
 
 My portfolio is currently being updated. <a href="https://martinrombachdev.com/"> You can view the old portfolio here.</a>
 
-I've started blogging <a href="https://dev.to/martinrombach88">here.</a>
-
 Read my resume and get in touch on <a href="https://www.linkedin.com/in/martin-rombach-0a67b266/">Linkedin</a>.
 
 
