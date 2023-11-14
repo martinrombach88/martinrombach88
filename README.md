@@ -4,4 +4,4 @@ Read my resume and get in touch on <a href="https://www.linkedin.com/in/martin-r
 
 **Coding in Public**
 
-<a href="https://dev.to/martinrombach88"> My Blog </a>
+Read about my projects on <a href="https://dev.to/martinrombach88"> my blog </a>
