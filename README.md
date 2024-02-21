@@ -1,4 +1,4 @@
-Hello I'm Martin Rombach, a Javascript developer.
+Hello I'm Martin Rombach, a Software developer.
 
 Frameworks/Libraries: React | React Native | Node.js | Typescript | Vite | React Native Magnus | Jest | Github Actions
 
