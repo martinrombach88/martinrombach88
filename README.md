@@ -2,7 +2,7 @@ Hello I'm Martin Rombach, a Software developer.
 
 Frameworks/Libraries: React | React Native | Node.js | Typescript | Vite | React Native Magnus | Jest | Github Actions
 
-Currently retraining in C# and .NET.
+Currently training in C# and .NET.
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinrombach88&hide=css,scss,html)
 
