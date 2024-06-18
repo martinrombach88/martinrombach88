@@ -1,6 +1,6 @@
 Hello I'm Martin Rombach, a Software developer.
 
-Frameworks/Libraries: React | React Native | Node.js | Typescript | Vite | React Native Magnus | Jest | Github Actions
+Frameworks/Libraries: .NET | MS SQL Server | React | React Native | Node.js | Typescript | Vite | React Native Magnus | Jest | Github Actions
 
 Currently training in C# and .NET.
 
