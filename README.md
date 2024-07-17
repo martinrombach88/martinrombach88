@@ -1,6 +1,6 @@
 Hello I'm Martin Rombach, a Software developer. I'm currently working for SimplyHealth on APIs.
 
-Frameworks/Libraries: .NET | MS SQL Server | React | React Native | Node.js | Typescript | Vite | React Native Magnus | Jest | Github Actions
+Frameworks/Libraries: .NET | MS SQL Server | Github Actions | React | React Native | Node.js | Typescript | Vite | React Native Magnus | Jest 
 
 My portfolio is <a href="https://www.martinrombachdev.com/"> here.</a>
 
