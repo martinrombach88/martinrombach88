@@ -1,4 +1,4 @@
-Hello I'm Martin Rombach, a Software developer. I'm currently working for SimplyHealth on microservices, SQL databases and TDD.
+Hello I'm Martin Rombach, a .NET and Javascript developer. I'm currently working for SimplyHealth on microservices, SQL databases and TDD.
 
 Frameworks/Libraries: .NET | MS SQL Server | Github Actions | React | React Native | Node.js | Typescript | Vite | React Native Magnus | Jest 
 
