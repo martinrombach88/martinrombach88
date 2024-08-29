@@ -1,4 +1,4 @@
-Hello I'm Martin Rombach, a .NET and Javascript developer. I'm currently working for SimplyHealth.
+Hello I'm Martin Rombach, a .NET and Javascript developer.
 
 Frameworks/Libraries: .NET | MS SQL Server | Github Actions | React | React Native | Node.js | Typescript | Jest
 
