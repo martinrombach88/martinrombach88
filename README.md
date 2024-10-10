@@ -1,6 +1,6 @@
 Hello I'm Martin Rombach, a .NET and Javascript developer.
 
-Frameworks/Libraries: .NET | MS SQL Server | Github Actions | React | React Native | Node.js | Typescript | Jest
+Frameworks/Libraries:  React | React Native | Node.js | Typescript | Jest/Cypress/Playwright | .NET | MS SQL Server | Github Actions |
 
 My portfolio is <a href="https://www.martinrombachdev.com/"> here.</a>
 
